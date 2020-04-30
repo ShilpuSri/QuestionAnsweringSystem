@@ -26,6 +26,8 @@ Please find the steps to run the code below:
 
 
 (ii) LDA:
+ -> Download the mallet zipped folder from http://mallet.cs.umass.edu/download.php
+ -> Give the path to the mallet folder in the file "LDAMallet.ipynb" in Cell#14.
  -> Run the file LDAMallet.ipynb to obtain optimal number of topics as 120 based on Coherence Score
  -> Run the file QA_LDA.ipynb
  -> The final output with answers gets stored in the file "qa_lda.csv"
